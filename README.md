@@ -6,8 +6,8 @@ Start by clicking the button below to go to the adoption page. Add you name to t
 
 ## Repo Details
 
-[Client]()
-[Server]()
+[Client](https://github.com/Russjames92/petful-client)
+[Server](https://github.com/Russjames92/petful-server)
 
 ## How to use the API
 
